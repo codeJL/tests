@@ -1,1 +1,1 @@
-<?php
+New content for the file.
